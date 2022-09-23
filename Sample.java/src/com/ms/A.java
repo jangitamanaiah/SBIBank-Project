@@ -1,7 +1,7 @@
 package com.ms;
 
 public class A {
-     public static void main(String[] args) {
-		
-	}
+     void m() {
+    	 System.out.println("m method");
+     }
 }
